@@ -1,1 +1,0 @@
-# fs-ios-sdk-lite
